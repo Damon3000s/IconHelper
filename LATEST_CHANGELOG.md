@@ -1,10 +1,6 @@
-## v1.2.9 (patch)
+## v1.2.10 (patch)
 
-Changes since v1.2.8:
+Changes since v1.2.9:
 
-- Merge remote-tracking branch 'refs/remotes/origin/main' ([@ktsu[bot]](https://github.com/ktsu[bot]))
-- Sync .github\workflows\dotnet.yml ([@ktsu[bot]](https://github.com/ktsu[bot]))
-- Sync .github\workflows\dotnet.yml ([@ktsu[bot]](https://github.com/ktsu[bot]))
-- Sync .github\workflows\dotnet.yml ([@ktsu[bot]](https://github.com/ktsu[bot]))
-- Sync .github\workflows\dotnet.yml ([@ktsu[bot]](https://github.com/ktsu[bot]))
+- Bump the microsoft group with 2 updates ([@dependabot[bot]](https://github.com/dependabot[bot]))
 
